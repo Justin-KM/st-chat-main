@@ -22,4 +22,4 @@ message("Hello bot!", is_user=True)  # align's the message to the right
    
 ### Screenshot
 
-![chatbot-og](https://user-images.githubusercontent.com/90775147/210397700-5ab9e00d-a61b-4bc9-a34a-b5bd4454b084.png)
+![chatbot-og](https://github.com/Justin-KM/st-chat-main/blob/main/2023-06-15%2022_12_56-Window.png?raw=true)
